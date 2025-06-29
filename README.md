@@ -2,7 +2,7 @@
 
 A modern, responsive product landing page for the AeroSync Pro wireless earbuds, built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
 
-## demo video
+## demo
 https://github.com/user-attachments/assets/451f8e7c-fcac-40bd-9681-316c0971df8c
 
 ## Features
