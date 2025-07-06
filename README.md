@@ -2,6 +2,7 @@
 
 A modern, responsive product landing page for the AeroSync Pro wireless earbuds, built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
 
+
 ## demo
 https://github.com/user-attachments/assets/451f8e7c-fcac-40bd-9681-316c0971df8c
 
@@ -20,6 +21,7 @@ https://github.com/user-attachments/assets/451f8e7c-fcac-40bd-9681-316c0971df8c
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
+
 
 ## Getting Started
 
@@ -71,6 +73,7 @@ npm run lint
 yarn lint
 ```
 
+
 ## Project Structure
 
 - [`src/ProductLandingPage.tsx`](src/ProductLandingPage.tsx): Main landing page component
@@ -78,10 +81,12 @@ yarn lint
 - [`src/main.tsx`](src/main.tsx): React root rendering
 - [`src/global.css`](src/global.css): Tailwind CSS import and global styles
 
+
 ## Customization
 
 - Update product details, images, and branding in [`src/ProductLandingPage.tsx`](src/ProductLandingPage.tsx).
 - Adjust styles via Tailwind classes in the same file or in [`src/global.css`](src/global.css).
+
 
 ## License
 
